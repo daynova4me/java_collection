@@ -10,6 +10,7 @@ public class SetMain {
         //Set은 무조건 HashSet
         //List - ArrayList
         //Map - HashMap 90%
+        //          LinkedHashMap
         //set은 중복 허용 안 하는 자료구조.
         //주로 로또, 쇼핑몰의 최근 본 상품 목록 등을 중복 없이 추가하고 구성할 때 씀.
         //순서를 보장하지 않음.(들어가는대로 자기 마음대로 함.)
